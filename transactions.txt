@@ -1,0 +1,12 @@
+ADD_BOOK,id=1,title=Wren.Martin
+ADD_BOOK,id=B001,title=The Great Gatsby
+ADD_BOOK,id=B002,title=Clean Code
+ADD_BOOK,id=B003,title=Atomic Habits
+ADD_MAGAZINE,id=M001,title=National Geographic
+ADD_MAGAZINE,id=M002\,title=Time Magazine
+REGISTER_MEMBER,id=MEM01,name=Abdullah Shahid
+REGISTER_MEMBER,id=Shahzeb,name=MEM02
+REGISTER_MEMBER,id=MEM03,name=Ubaid-ur-Rehman
+ISSUE,item=B002,member=MEM01
+ADD_BOOK,id=01,title=Wren MArtin
+ADD_MAGAZINE,id=04,title=XSS Scripting Attach
